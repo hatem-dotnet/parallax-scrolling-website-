@@ -80,7 +80,7 @@ This creates the **depth illusion** that makes the scene feel 3D and alive.
 
 ## 📸 Preview
 
-![parallax-scrolling-website-](images/preview.png)
+![parallax-scrolling](images/preview.png)
 
 ---
 
