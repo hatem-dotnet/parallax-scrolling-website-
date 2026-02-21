@@ -80,7 +80,8 @@ This creates the **depth illusion** that makes the scene feel 3D and alive.
 
 ## 📸 Preview
 
-> Add a screenshot or screen recording of your site here for best results!
+<img width="1365" height="603" alt="screanshot" src="https://github.com/user-attachments/assets/4589defa-7158-4476-a37e-48580860acf3" />
+
 
 ---
 
